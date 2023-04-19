@@ -1,0 +1,2424 @@
+[
+    {
+        "name": "Xiaomi 12Pro 5G",
+        "price": "24000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876440/Web.%20Images/Xiaomi-12-black_odod6l.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876440/Web.%20Images/Xiaomi-12-pink_aqyboy.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876440/Web.%20Images/Xiaomi-12-blue_rvlrzc.jpg"
+            }
+        ],
+        "category": "mobiles",
+        "seller": "Xiaomi",
+        "stock": 8,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Wrangler Mens Jeans",
+        "price": "2450",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876439/Web.%20Images/Wrangler-Authentics-Men_s-jeans-storm_umtjty.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876438/Web.%20Images/Wrangler-Authentics-Men_s-jeans-stone_geqktt.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876436/Web.%20Images/Wrangler-Authentics-Men_s-jeans-khakhi_kj5qkd.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876435/Web.%20Images/Wrangler_Authentics_Men_s_jeans-wheat_jccmhl.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876434/Web.%20Images/Wrangler-Authentics-Men_s-jeans-blue_jxc15i.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876434/Web.%20Images/Wrangler-Authentics-Men_s-jeans-grey_ehcalu.jpg"
+            }
+        ],
+        "category": "mens",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            },
+            {
+                "value": "XL"
+            },
+            {
+                "value": "XXL"
+            }
+        ],
+        "seller": "Wrangler",
+        "stock": 30,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Woolcap Winter Caps",
+        "price": "450",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876434/Web.%20Images/woolcap-gray_qljkyr.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876433/Web.%20Images/woolcap-beige_ttqaqa.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876433/Web.%20Images/woolcap-black_zihudm.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876434/Web.%20Images/woolcap-navy_wp8m8o.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876434/Web.%20Images/woolcap-red_nw661k.jpg"
+            }
+        ],
+        "category": "mens",
+        "seller": "Woolcap",
+        "stock": 5,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Windron Bags",
+        "price": "1750",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876433/Web.%20Images/Windron-bagpack-blue_l9vysr.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876433/Web.%20Images/Windron-bagpack-grey_m92xlz.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876434/Web.%20Images/Windron-bagpack-orange_ygyzrg.jpg"
+            }
+        ],
+        "category": "bagpacks",
+        "seller": "windron",
+        "stock": 15,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Wedani Womens Top",
+        "price": "899",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876433/Web.%20Images/Wedani-Women_s-Casual-top-pink_qgt3gu.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876431/Web.%20Images/Wedani-Women_s-Casual-top-navy_qocpf6.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876433/Web.%20Images/Wedani-Women_s-Casual-top-yellow_lllyeu.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876425/Web.%20Images/Wedani-Women_s-Casual-top-lightpink_kelvhj.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876424/Web.%20Images/Wedani-Women_s-Casual-top-black_cbahor.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876424/Web.%20Images/Wedani-Women_s-Casual-top-blue_eputu8.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876424/Web.%20Images/Wedani-Women_s-Casual-top-creame_wzvsgv.jpg"
+            }
+        ],
+        "category": "womens",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            },
+            {
+                "value": "XL"
+            },
+            {
+                "value": "XXL"
+            }
+        ],
+        "seller": "Wedani",
+        "stock": 20,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Van Heusan Mens Tshirt",
+        "price": "2000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876423/Web.%20Images/van-heusan-tshirt-black_lg8169.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876424/Web.%20Images/van-heusan-tshirt-grey_myo4y2.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876424/Web.%20Images/van-heusan-tshirt-navy_epatci.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876424/Web.%20Images/van-heusan-tshirt-nautical_eaauba.jpg"
+            }
+        ],
+        "category": "mens",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            },
+            {
+                "value": "XL"
+            },
+            {
+                "value": "XXL"
+            }
+        ],
+        "seller": "Van Heusan",
+        "stock": 20,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "UrbanForest Wallet",
+        "price": "650",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876424/Web.%20Images/UrbanForest-wallet-green_dvzff9.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876423/Web.%20Images/UrbanForest-wallet-blue_cxqxuc.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876424/Web.%20Images/UrbanForest-wallet-burgundy_yceakj.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876423/Web.%20Images/UrbanForest-wallet-gray_vrv1wg.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876423/Web.%20Images/UrbanForest-wallet-brown_kfjjm3.jpg"
+            }
+        ],
+        "category": "accessories",
+        "seller": "UrbanForest",
+        "stock": 15,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Timex WristWatch",
+        "price": "1750",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876422/Web.%20Images/TIMEX-TW000U927-blue_zazqtn.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876421/Web.%20Images/TIMEX-TW000U927-beige_w9wyox.jpg"
+            }
+        ],
+        "category": "accessories",
+        "seller": "Timex",
+        "stock": 10,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Timex WristWatch",
+        "price": "950",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876422/Web.%20Images/Titan-silver_q9fgh3.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876422/Web.%20Images/Titan-gold_j0gj9k.jpg"
+            }
+        ],
+        "category": "accessories",
+        "seller": "Timex",
+        "stock": 10,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Timex WristWatch",
+        "price": "1750",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876421/Web.%20Images/Timex-steelchain-blue_csgy3m.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876421/Web.%20Images/Timex-steelchain-white_gdq326.jpg"
+            }
+        ],
+        "category": "accessories",
+        "seller": "Timex",
+        "stock": 10,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Timex Analog watch",
+        "price": "1250",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876421/Web.%20Images/Timex-analoge-brown-dial_hc11wy.jpg"
+            }
+        ],
+        "category": "accessories",
+        "seller": "Timex",
+        "stock": 10,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Timex watch",
+        "price": "1150",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876418/Web.%20Images/Timex-1-brown_dv6xjm.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876415/Web.%20Images/Timex-1-blue_kclnrr.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876415/Web.%20Images/Timex-1-black_jwehvx.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876421/Web.%20Images/Timex-1-white_izsstk.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876415/Web.%20Images/Timex-1-beige_e3sofl.jpg"
+            }
+        ],
+        "category": "accessories",
+        "seller": "Timex",
+        "stock": 10,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Stylistico Women's Top",
+        "price": "899",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876415/Web.%20Images/Stylistico-Women_s-Top-yellow_twu3ug.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876415/Web.%20Images/Stylistico-Women_s-Top-navy_h54hqa.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876415/Web.%20Images/Stylistico-Women_s-Top-mustard_ses3k0.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876415/Web.%20Images/Stylistico-Women_s-Top-offwhite_a7eo4o.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876414/Web.%20Images/Stylistico-Women_s-Top-black_gnqjng.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876414/Web.%20Images/Stylistico-Women_s-Top-blue_olmgvw.jpg"
+            }
+        ],
+        "category": "womens",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            },
+            {
+                "value": "XL"
+            },
+            {
+                "value": "XXL"
+            }
+        ],
+        "seller": "Stylistico",
+        "stock": 35,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Sparx Mens Shoes",
+        "price": "2599",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876407/Web.%20Images/Sparx-mens-660-gray_tp825a.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876407/Web.%20Images/Sparx-mens-0677-navy_plzyk4.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876407/Web.%20Images/Sparx-mens-0677-gray_xi0zki.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876407/Web.%20Images/Sparx-mens-0677-blue_cs55td.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876407/Web.%20Images/Sparx-mens-660-blue_zpohqp.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876407/Web.%20Images/Sparx-mens-0677-black_rlr77i.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876407/Web.%20Images/Sparx-mens-660-black_xlnmwl.jpg"
+            }
+        ],
+        "category": "shoes",
+        "size": [
+            {
+                "value": "5"
+            },
+            {
+                "value": "6"
+            },
+            {
+                "value": "6.5"
+            },
+            {
+                "value": "7"
+            },
+            {
+                "value": "8"
+            }
+        ],
+        "seller": "Sparx",
+        "stock": 20,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Boat S5 Smartwatch",
+        "price": "29999",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876406/Web.%20Images/sm-boat-blue_v7nulj.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876406/Web.%20Images/sm-boat-green_xx24yh.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876406/Web.%20Images/sm-boat-black_qs8zjv.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876407/Web.%20Images/sm-boat-red_onavfn.jpg"
+            }
+        ],
+        "category": "smartwatch",
+        "seller": "Boat",
+        "stock": 25,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Boat A22 Smartwatch",
+        "price": "19999",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876406/Web.%20Images/smartwatch-boat-creme_bonisg.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876406/Web.%20Images/smartwatch-boat-green_z1kexj.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876406/Web.%20Images/smartwatch-boat-black_wpqfau.webp"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876406/Web.%20Images/smartwatch-boat-blue_qf6jr6.jpg"
+            }
+        ],
+        "category": "smartwatch",
+        "seller": "Boat",
+        "stock": 25,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Syril Womens Top",
+        "price": "1599",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876396/Web.%20Images/SIRIL-Women_s-Top-blue_ywscvx.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876396/Web.%20Images/SIRIL-Women_s-Top-black_gkktij.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876396/Web.%20Images/SIRIL-Women_s-Top-green_loi9fp.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876406/Web.%20Images/SIRIL-Women_s-Top-maroon_inowpf.jpg"
+            }
+        ],
+        "category": "womens",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            },
+            {
+                "value": "XL"
+            },
+            {
+                "value": "XXL"
+            }
+        ],
+        "seller": "Syril",
+        "stock": 20,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Sheetal Womens Dress",
+        "price": "2999",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876396/Web.%20Images/Sheetal-Associates-Women_s-Puff-Sleeve-V-Neck-Bodycon-Casual-Mini-Dress-pink_xq3b1j.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876396/Web.%20Images/Sheetal-Associates-Women_s-Puff-Sleeve-V-Neck-Bodycon-Casual-Mini-Dress-teal_wab454.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876396/Web.%20Images/Sheetal-Associates-Women_s-Puff-Sleeve-V-Neck-Bodycon-Casual-Mini-Dress-purple_iuwivg.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876396/Web.%20Images/Sheetal-Associates-Women_s-Puff-Sleeve-V-Neck-Bodycon-Casual-Mini-Dress-maroon_c9vja1.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876396/Web.%20Images/Sheetal-Associates-Women_s-Puff-Sleeve-V-Neck-Bodycon-Casual-Mini-Dress-black_tejvan.jpg"
+            }
+        ],
+        "category": "womens",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            },
+            {
+                "value": "XL"
+            },
+            {
+                "value": "XXL"
+            }
+        ],
+        "seller": "Sheetal",
+        "stock": 20,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Samsung tab S7",
+        "price": "67000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876395/Web.%20Images/samsung-tab-s7p-black_xb1skw.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876396/Web.%20Images/samsung-tab-s7p-silver_llrw4q.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876395/Web.%20Images/samsung-tab-s7p-blue_dmxkhw.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876395/Web.%20Images/samsung-tab-s7p-bronze_sk6bwp.jpg"
+            }
+        ],
+        "category": "mobiles",
+        "seller": "Samsung",
+        "stock": 80,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Samsung Series-9 Smartwatch",
+        "price": "37000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876395/Web.%20Images/samsung-smartwatch-black_x3s7qe.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876395/Web.%20Images/samsung-smartwatch-blue_ytcvs5.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876395/Web.%20Images/samsung-smartwatch-white_ynl6jw.jpg"
+            }
+        ],
+        "category": "smartwatch",
+        "seller": "Samsung",
+        "stock": 40,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Samsung Galaxy S22",
+        "price": "87000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876394/Web.%20Images/samsung-s22-white_lq8gbu.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876394/Web.%20Images/samsung-s22-green_f8pya0.jpg"
+            }
+        ],
+        "category": "mobiles",
+        "seller": "Samsung",
+        "stock": 40,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Samsung Galaxy S22 Ulta",
+        "price": "105000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876394/Web.%20Images/samsung-s22ultra-black_ktbtou.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876394/Web.%20Images/samsung-s22ultra-red_q5mbnc.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876394/Web.%20Images/samsung-s22ultra-green_wrujnp.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876394/Web.%20Images/samsung-s22ultra-white_mafpla.jpg"
+            }
+        ],
+        "category": "mobiles",
+        "seller": "Samsung",
+        "stock": 40,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Samsung Galaxy M53 5G",
+        "price": "15000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876394/Web.%20Images/samsung-m53-green_p4ostw.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876394/Web.%20Images/samsung-m53-blue_vr6sf7.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876394/Web.%20Images/samsung-m53-brown_n5rqcq.jpg"
+            }
+        ],
+        "category": "mobiles",
+        "seller": "Samsung",
+        "stock": 40,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Samsung Galaxy M13",
+        "price": "10500",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876394/Web.%20Images/samsung-m13-blue_src1d9.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876393/Web.%20Images/samsung-m13-brown_f6fp1n.jpg"
+            }
+        ],
+        "category": "mobiles",
+        "seller": "Samsung",
+        "stock": 40,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Safari TravelBags",
+        "price": "3000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876390/Web.%20Images/Safari-travelbag-red_fvhzbo.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876393/Web.%20Images/Safari-travelbag-skyblue_meiqq3.jpg"
+            }
+        ],
+        "category": "bagpacks",
+        "seller": "Safari",
+        "stock": 20,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Redmi Pad G12",
+        "price": "12500",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876388/Web.%20Images/redmi-pad-black_nylu98.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876388/Web.%20Images/redmi-pad-green_kcsqr7.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876388/Web.%20Images/redmi-pad-silver_uc2whw.jpg"
+            }
+        ],
+        "category": "mobiles",
+        "seller": "Redmi",
+        "stock": 40,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Redmi Note 11 5G",
+        "price": "14500",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876388/Web.%20Images/Redmi-note11-black_lqulla.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876388/Web.%20Images/Redmi-note11-blue_h635qd.jpg"
+            }
+        ],
+        "category": "mobiles",
+        "seller": "Redmi",
+        "stock": 40,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Redmi 12 5G",
+        "price": "18500",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876387/Web.%20Images/Redmi-125g-black_l6eslt.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876387/Web.%20Images/Redmi-125g-blue_iggrmv.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876388/Web.%20Images/Redmi-125g-green_pna0p4.jpg"
+            }
+        ],
+        "category": "mobiles",
+        "seller": "Redmi",
+        "stock": 40,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Redmi 10 Prime",
+        "price": "10500",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876387/Web.%20Images/redmi-10prime-black_opmsov.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876387/Web.%20Images/redmi-10prime-white_tqpg1h.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876387/Web.%20Images/redmi-10prime-blue_yinnxr.jpg"
+            }
+        ],
+        "category": "mobiles",
+        "seller": "Redmi",
+        "stock": 40,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Redmi 10a",
+        "price": "8999",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876387/Web.%20Images/redmi-10a-blue_qbguwb.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876387/Web.%20Images/redmi-10a-black_sbla9j.webp"
+            }
+        ],
+        "category": "mobiles",
+        "seller": "Redmi",
+        "stock": 40,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Realme Narzo 50i",
+        "price": "18999",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876376/Web.%20Images/realme-narzo-50i-black_csemju.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876385/Web.%20Images/realme-narzo-50i-green_gfn4ai.jpg"
+            }
+        ],
+        "category": "mobiles",
+        "seller": "Realme",
+        "stock": 40,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Womens Synthetic Dress",
+        "price": "1599",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876375/Web.%20Images/RARE-Women_s-Synthetic-a-line-Knee-Long-Dress-blue_zvzs3n.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876376/Web.%20Images/RARE-Women_s-Synthetic-a-line-Knee-Long-Dress-green_khfcsv.jpg"
+            }
+        ],
+        "category": "womens",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            },
+            {
+                "value": "XL"
+            },
+            {
+                "value": "XXL"
+            }
+        ],
+        "seller": "Synthetic",
+        "stock": 20,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Ragzo Mens Jeans",
+        "price": "1599",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876376/Web.%20Images/ragzo-mens-jeans-darkblue_nfjuan.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876375/Web.%20Images/ragzo-mens-jeans-lightgreen_bptitj.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876375/Web.%20Images/ragzo-mens-jeans-grey_vtdfbc.jpg"
+            }
+        ],
+        "category": "mens",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            },
+            {
+                "value": "XL"
+            },
+            {
+                "value": "XXL"
+            }
+        ],
+        "seller": "Ragzo",
+        "stock": 20,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Purvaja Womens Dress",
+        "price": "2299",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876375/Web.%20Images/PURVAJA-Women_s-Midi-Bodycon-Dress-pink_iluw1f.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876375/Web.%20Images/PURVAJA-Women_s-Midi-Bodycon-Dress-peach_bqoiqy.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876375/Web.%20Images/PURVAJA-Women_s-Midi-Bodycon-Dress-lightpink_qlkmvk.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876374/Web.%20Images/PURVAJA-Women_s-Midi-Bodycon-Dress-navy_kz2itr.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876374/Web.%20Images/PURVAJA-Women_s-Midi-Bodycon-Dress-green_xrgfum.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876374/Web.%20Images/PURVAJA-Women_s-Midi-Bodycon-Dress-bluewhite_g1cen2.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876374/Web.%20Images/PURVAJA-Women_s-Midi-Bodycon-Dress-black_weppxr.jpg"
+            }
+        ],
+        "category": "womens",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            },
+            {
+                "value": "XL"
+            },
+            {
+                "value": "XXL"
+            }
+        ],
+        "seller": "Purvaja",
+        "stock": 20,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Purvaja Womens Dress",
+        "price": "2099",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876374/Web.%20Images/PURVAJA-Women_s-High-Low-Knee-Length-Dress-pink_nn1s5y.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876374/Web.%20Images/PURVAJA-Women_s-High-Low-Knee-Length-Dress-black_rkog0z.jpg"
+            }
+        ],
+        "category": "womens",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            },
+            {
+                "value": "XL"
+            },
+            {
+                "value": "XXL"
+            }
+        ],
+        "seller": "Purvaja",
+        "stock": 20,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Purvaja Womens Dress",
+        "price": "2999",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876373/Web.%20Images/PURVAJA-Women_s-Bodycon-Knee-Length-Dress_-beige_qugmy5.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876374/Web.%20Images/PURVAJA-Women_s-Bodycon-Knee-Length-Dress_-maroon_o7jijb.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876374/Web.%20Images/PURVAJA-Women_s-Bodycon-Knee-Length-Dress_-orange_mbc9kl.jpg"
+            }
+        ],
+        "category": "womens",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            },
+            {
+                "value": "XL"
+            },
+            {
+                "value": "XXL"
+            }
+        ],
+        "seller": "Purvaja",
+        "stock": 20,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Puma Mens Cap",
+        "price": "599",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876373/Web.%20Images/puma-cap-black_xlumpt.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876373/Web.%20Images/puma-cap-blue_rzaxg9.jpg"
+            }
+        ],
+        "category": "accessories",
+        "seller": "Puma",
+        "stock": 6,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Polyster Mens Sunhat",
+        "price": "499",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876372/Web.%20Images/polyester-sunhat-gray_skvjts.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876372/Web.%20Images/polyester-sunhat-white_oyeavm.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876372/Web.%20Images/polyester-sunhat-black_nnvhvd.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876372/Web.%20Images/polyester-sunhat-blue_bkjrmm.jpg"
+            }
+        ],
+        "category": "accessories",
+        "seller": "Polyster",
+        "stock": 6,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Popwings Womens Top",
+        "price": "999",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876373/Web.%20Images/POPWINGS-Casual-Latest-Full-Sleeves-Top-for-Women-black_uxebsp.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876373/Web.%20Images/POPWINGS-Casual-Latest-Full-Sleeves-Top-for-Women-cream_vs5uz1.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876373/Web.%20Images/POPWINGS-Casual-Latest-Full-Sleeves-Top-for-Women-maroon_pjkjp4.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876373/Web.%20Images/POPWINGS-Casual-Latest-Full-Sleeves-Top-for-Women-lavender_uxlrpf.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876373/Web.%20Images/POPWINGS-Casual-Latest-Full-Sleeves-Top-for-Women-mustard_ynwvvm.jpg"
+            }
+        ],
+        "category": "womens",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            }
+        ],
+        "seller": "Popwings",
+        "stock": 20,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Pepe Mens Jeans",
+        "price": "4500",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876372/Web.%20Images/Pepe-Mens-Whiskered-Jeans-ice_z9jhla.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876372/Web.%20Images/Pepe-Mens-Whiskered-Jeans-bluetint_cifnvi.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876372/Web.%20Images/Pepe-Mens-Whiskered-Jeans-midblue_j4h4si.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876371/Web.%20Images/Pepe-Mens-Whiskered-Jeans-black_oq589w.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876371/Web.%20Images/Pepe-Mens-Whiskered-Jeans-ashgrey_li3ctq.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876371/Web.%20Images/Pepe-Mens-Whiskered-Jeans-blue_wrgzrs.jpg"
+            }
+        ],
+        "category": "mens",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            },
+            {
+                "value": "XL"
+            },
+            {
+                "value": "XXL"
+            }
+        ],
+        "seller": "Pepe",
+        "stock": 30,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Oneplus 10t",
+        "price": "67000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876371/Web.%20Images/oneplus-10t-green_aq88vf.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876371/Web.%20Images/oneplus-10t-black_jynml5.jpg"
+            }
+        ],
+        "category": "mobiles",
+        "seller": "Oneplus",
+        "stock": 80,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Oneplus 10",
+        "price": "79000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876371/Web.%20Images/oneplus-10-black_qkp4oc.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876370/Web.%20Images/oneplus-10-green_t4dcoy.jpg"
+            }
+        ],
+        "category": "mobiles",
+        "seller": "Oneplus",
+        "stock": 80,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Hyper Kids Remote Helicopter",
+        "price": "2750",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876297/Web.%20Images/Helicopter-top-green_ndw1x4.jpg"
+            }
+        ],
+        "category": "toys",
+        "seller": "Hyper",
+        "stock": 5,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Nerp kids Toygun",
+        "price": "850",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876370/Web.%20Images/nerp-toygun-yellow_pt3vzv.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876370/Web.%20Images/nerp-toygun-red_wlhsz0.jpg"
+            }
+        ],
+        "category": "toys",
+        "seller": "Nerp",
+        "stock": 4,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Hyper Kids Remote Helicopter",
+        "price": "2750",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876297/Web.%20Images/Helicopter-top-yellow_jmhdju.jpg"
+            }
+        ],
+        "category": "toys",
+        "seller": "Hyper",
+        "stock": 2,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Hyper Kids Remote Helicopter",
+        "price": "2750",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876297/Web.%20Images/Helicopter-top-red_ylvnvf.jpg"
+            }
+        ],
+        "category": "toys",
+        "seller": "Hyper",
+        "stock": 4,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Nerp kids Toygun",
+        "price": "850",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876370/Web.%20Images/nerp-toygun-red_wlhsz0.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876370/Web.%20Images/nerp-toygun-yellow_pt3vzv.jpg"
+            }
+        ],
+        "category": "toys",
+        "seller": "Nerp",
+        "stock": 4,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "MiniCult Kids Wear",
+        "price": "399",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876344/Web.%20Images/minicult-Cotton-Pajama-Pants-Kids-multi2_t7vslq.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876344/Web.%20Images/minicult-Cotton-Pajama-Pants-Kids-multi3_fbbyr5.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876344/Web.%20Images/minicult-Cotton-Pajama-Pants-Kids-multi4_lql50x.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876343/Web.%20Images/minicult-Cotton-Pajama-Pants-Kids-multi1_x6mku9.jpg"
+            }
+        ],
+        "category": "kids",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            }
+        ],
+        "seller": "MiniCult",
+        "stock": 9,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Asthetic Laptop bags",
+        "price": "1200",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876344/Web.%20Images/mkb-bag-gray_hshofx.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876344/Web.%20Images/mkb-bag-black_xkq2a6.jpg"
+            }
+        ],
+        "category": "bagpacks",
+        "seller": "Asthetix",
+        "stock": 10,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Mokobora bags",
+        "price": "800",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876345/Web.%20Images/Mokobara-bagpack-sunray_goi5qx.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876345/Web.%20Images/Mokobara-bagpack-gray_vnz5lj.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876345/Web.%20Images/Mokobara-bagpack-blue_sax9nm.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876344/Web.%20Images/Mokobara-bagpack-black_a3ivmr.jpg"
+            }
+        ],
+        "category": "bagpacks",
+        "seller": "Mokobora",
+        "stock": 10,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Adidas Skeaker Shoes",
+        "price": "2999",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876343/Web.%20Images/mesh-mens-shoes-skyblue_se5wr8.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876343/Web.%20Images/mesh-mens-shoes-lime_qoe9vc.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876343/Web.%20Images/mesh-mens-shoes-gray_dr5guw.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876343/Web.%20Images/mesh-mens-shoes-black_pgfkdw.jpg"
+            }
+        ],
+        "category": "shoes",
+        "size": [
+            {
+                "value": "5"
+            },
+            {
+                "value": "6"
+            },
+            {
+                "value": "6.5"
+            },
+            {
+                "value": "7"
+            },
+            {
+                "value": "8"
+            }
+        ],
+        "seller": "Amico",
+        "stock": 8,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Mens Striped Shirts",
+        "price": "750",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876341/Web.%20Images/mens-shirt-9-peach_jnll5v.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876341/Web.%20Images/mens-shirt-9-creame_gwv1xq.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876340/Web.%20Images/mens-shirt-9-grey_aorm2a.jpg"
+            }
+        ],
+        "category": "mens",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            },
+            {
+                "value": "XL"
+            },
+            {
+                "value": "XXL"
+            }
+        ],
+        "seller": "Armani",
+        "stock": 30,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Sportline mens Cap",
+        "price": "199",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876342/Web.%20Images/mens-sports-cap-gray_eyloqw.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876341/Web.%20Images/mens-sports-cap-b_ue-gray_gf8lue.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876342/Web.%20Images/mens-sports-cap-black_uaisd1.jpg"
+            }
+        ],
+        "category": "accessories",
+        "seller": "Sportline",
+        "stock": 6,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Mens Striped Shirts",
+        "price": "1250",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876343/Web.%20Images/mens-stripped-shirt-white_zu40d4.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876342/Web.%20Images/mens-stripped-shirt-maroon_xefrsh.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876342/Web.%20Images/mens-stripped-shirt-black_ioyxiz.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876342/Web.%20Images/mens-stripped-shirt-skyblue_xkhv1v.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876342/Web.%20Images/mens-stripped-shirt-blue_adr5bw.jpg"
+            }
+        ],
+        "category": "mens",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            },
+            {
+                "value": "XL"
+            },
+            {
+                "value": "XXL"
+            }
+        ],
+        "seller": "Armani",
+        "stock": 30,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "HRX Mens Cap",
+        "price": "899",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876319/Web.%20Images/mens-cap-maroon_jh7x51.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876319/Web.%20Images/mens-cap-gray_xcwrqj.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876319/Web.%20Images/mens-cap-black_vf7p9u.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876320/Web.%20Images/mens-cap-mustard_popcxx.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876322/Web.%20Images/mens-cap-navy_jb8cvs.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876323/Web.%20Images/mens-cap-olive-green_rbieo1.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876323/Web.%20Images/mens-cap-orange_w3zloi.jpg"
+            }
+        ],
+        "category": "accessories",
+        "seller": "HRX",
+        "stock": 6,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Lavie Handbags",
+        "price": "1899",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876313/Web.%20Images/lavie-handbag-p2-blue_v1sxlc.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876314/Web.%20Images/lavie-handbag-p2-brown_ugkvy4.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876314/Web.%20Images/lavie-handbag-p2-yellow_bstebw.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876312/Web.%20Images/lavie-handbag-p2-black_gilxey.jpg"
+            }
+        ],
+        "category": "handbags",
+        "seller": "Lavie",
+        "stock": 8,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Lavie Handbags",
+        "price": "2599",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876312/Web.%20Images/lavie-handbag-p1-red_yf3snf.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876312/Web.%20Images/lavie-handbag-p1-yellow_yx3gxs.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876311/Web.%20Images/lavie-handbag-p1-biege_m3l4mz.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876311/Web.%20Images/lavie-handbag-p1-black_ol0awo.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876311/Web.%20Images/lavie-handbag-p1-green_vgaylj.jpg"
+            }
+        ],
+        "category": "handbags",
+        "seller": "Lavie",
+        "stock": 8,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Asus vivobook X512da 15'",
+        "price": "65000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876310/Web.%20Images/Laptop_1_bhufaq.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876310/Web.%20Images/Laptop_2_c6zpth.jpg"
+            }
+        ],
+        "category": "laptops",
+        "seller": "Asus",
+        "stock": 10,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Redmi notebook pro 15'",
+        "price": "55000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876311/Web.%20Images/Laptop_mi_1_t8egcq.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876312/Web.%20Images/Laptop_mi_2_achxqq.jpg"
+            }
+        ],
+        "category": "laptops",
+        "seller": "Redmi",
+        "stock": 10,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Jam Honey Toycar",
+        "price": "1550",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876307/Web.%20Images/jam-honey-toycar-pink_yubs9v.jpg"
+            }
+        ],
+        "category": "toys",
+        "seller": "Jam Honey",
+        "stock": 5,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Apple iPhone 14Pro",
+        "price": "89000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876305/Web.%20Images/Iphone-14pro-purple_ulql8s.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876302/Web.%20Images/Iphone-14pro-silver_b5upzw.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876302/Web.%20Images/Iphone-14pro-gold_mbzk0p.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876302/Web.%20Images/Iphone-14pro-black_n1e5wh.jpg"
+            }
+        ],
+        "category": "mobiles",
+        "seller": "Apple",
+        "stock": 80,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Apple iPhone 13",
+        "price": "52950",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876300/Web.%20Images/Iphone-13-black_gkj22g.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876301/Web.%20Images/iphone-13-pink_a3bv8q.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876301/Web.%20Images/Iphone-13-red_ujtbxn.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876301/Web.%20Images/Iphone-13-white_vi5sty.jpg"
+            }
+        ],
+        "category": "mobiles",
+        "seller": "Apple",
+        "stock": 80,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Apple iPad Pro",
+        "price": "88000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876304/Web.%20Images/ipad-2021-black_kgl3qg.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876300/Web.%20Images/ipad-2021-silver_knau5c.jpg"
+            }
+        ],
+        "category": "mobiles",
+        "seller": "Apple",
+        "stock": 80,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Apple iPad Gen-10",
+        "price": "62000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876299/Web.%20Images/ipad-10gen-red_qquvx0.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876299/Web.%20Images/ipad-10gen-yellow_yvhhkw.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876299/Web.%20Images/ipad-10gen-silver_yptafq.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876299/Web.%20Images/ipad-10gen-blue_xykcab.jpg"
+            }
+        ],
+        "category": "mobiles",
+        "seller": "Apple",
+        "stock": 80,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Apple iPad 9th Gen",
+        "price": "34000",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876298/Web.%20Images/ipad-9gen-silver_b6zb5x.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876298/Web.%20Images/ipad-9gen-black_jqqmcg.jpg"
+            }
+        ],
+        "category": "mobiles",
+        "seller": "Apple",
+        "stock": 80,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Hopscotch Boys cotton Suit",
+        "price": "1399",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876299/Web.%20Images/Hopscotch-Boy_s-Cotton-Shirt-And-Shorts-yellow_rxaslb.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876298/Web.%20Images/Hopscotch-Boy_s-Cotton-Shirt-And-Shorts-pink_odhtts.jpg"
+            }
+        ],
+        "category": "kids",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            }
+        ],
+        "seller": "Hopscotch",
+        "stock": 9,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Hanmmonds flycatcher handbags",
+        "price": "1899",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876296/Web.%20Images/hammonds-flycatcher-red_kzungn.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876293/Web.%20Images/hammonds-flycatcher-brown_xaqarl.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876295/Web.%20Images/hammonds-flycatcher-green_mtj5ik.jpg"
+            }
+        ],
+        "category": "handbags",
+        "seller": "Hammonds",
+        "stock": 8,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Hanmmonds handbags",
+        "price": "2999",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876295/Web.%20Images/hammonds-flycatcher-p2-blue_n7b6nw.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876295/Web.%20Images/hammonds-flycatcher-p2-red_w1j6bh.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876295/Web.%20Images/hammonds-flycatcher-p2-green_igpdqw.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876295/Web.%20Images/hammonds-flycatcher-p2-brown_vc7ncg.jpg"
+            }
+        ],
+        "category": "handbags",
+        "seller": "Hammonds",
+        "stock": 8,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Gshock Analoge Watch",
+        "price": "2550",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876271/Web.%20Images/Gshock-digital-blue_o2hpih.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876272/Web.%20Images/Gshock-digital-gray_xvq6zi.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876272/Web.%20Images/Gshock-digital-green_g7o01e.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876271/Web.%20Images/Gshock-digital-gold_ojmpw8.jpg"
+            }
+        ],
+        "category": "accessories",
+        "seller": "Gshock",
+        "stock": 10,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Fossil Smartwatch",
+        "price": "25999",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876270/Web.%20Images/fossil-smartwatch-black_abycrd.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876271/Web.%20Images/fossil-smartwatch-tan_haakpw.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876271/Web.%20Images/fossil-smartwatch-lightgray_qn6f9d.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876270/Web.%20Images/fossil-smartwatch-gray_ywvzqh.jpg"
+            }
+        ],
+        "category": "smartwatch",
+        "seller": "Fossil",
+        "stock": 25,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Centerino mens shoes",
+        "price": "999",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876265/Web.%20Images/Centrino-333-shoes-navy_qz93at.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876265/Web.%20Images/Centrino-333-shoes-burgundy_mttuko.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876265/Web.%20Images/Centrino-333-shoes-black_vrbx7v.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876265/Web.%20Images/Centerino-mens-shoes-brown_sg7wdh.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876265/Web.%20Images/Centrino-333-shoes-beige_c7njnr.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876264/Web.%20Images/Centerino-mens-shoes-blue_o9qa4u.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876264/Web.%20Images/Centerino-mens-shoes-black_lmdqgd.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876264/Web.%20Images/Centerino-mens-shoes-beige_wnws96.jpg"
+            }
+        ],
+        "category": "shoes",
+        "size": [
+            {
+                "value": "5"
+            },
+            {
+                "value": "6"
+            },
+            {
+                "value": "6.5"
+            },
+            {
+                "value": "7"
+            },
+            {
+                "value": "8"
+            }
+        ],
+        "seller": "Centerino",
+        "stock": 20,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Bold-N-Elegent Kids Wear",
+        "price": "799",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876264/Web.%20Images/Bold-N-Elegant-Solid-Full-Sleeve-Jacket-Coat-Blazer-with-T-Shirt-yellow_ov7ns4.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876264/Web.%20Images/Bold-N-Elegant-Solid-Full-Sleeve-Jacket-Coat-Blazer-with-T-Shirt-red_ahawyy.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876263/Web.%20Images/Bold-N-Elegant-Solid-Full-Sleeve-Jacket-Coat-Blazer-with-T-Shirt-blue_k1bnjz.jpg"
+            }
+        ],
+        "category": "kids",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            }
+        ],
+        "seller": "Bold-N-Elegent",
+        "stock": 9,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Bold-N-Elegent Kids Wear",
+        "price": "799",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876264/Web.%20Images/Bold-N-Elegant-Solid-Full-Sleeve-Jacket-Coat-Blazer-with-T-Shirt-red_ahawyy.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876264/Web.%20Images/Bold-N-Elegant-Solid-Full-Sleeve-Jacket-Coat-Blazer-with-T-Shirt-yellow_ov7ns4.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876263/Web.%20Images/Bold-N-Elegant-Solid-Full-Sleeve-Jacket-Coat-Blazer-with-T-Shirt-blue_k1bnjz.jpg"
+            }
+        ],
+        "category": "kids",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            }
+        ],
+        "seller": "Bold-N-Elegent",
+        "stock": 9,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Bold-N-Elegent Kids Wear",
+        "price": "799",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876263/Web.%20Images/Bold-N-Elegant-Solid-Full-Sleeve-Jacket-Coat-Blazer-with-T-Shirt-blue_k1bnjz.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876264/Web.%20Images/Bold-N-Elegant-Solid-Full-Sleeve-Jacket-Coat-Blazer-with-T-Shirt-red_ahawyy.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876264/Web.%20Images/Bold-N-Elegant-Solid-Full-Sleeve-Jacket-Coat-Blazer-with-T-Shirt-yellow_ov7ns4.jpg"
+            }
+        ],
+        "category": "kids",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            }
+        ],
+        "seller": "Bold-N-Elegent",
+        "stock": 9,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Bold-N-Elegent Kids Wear",
+        "price": "499",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876263/Web.%20Images/Bold-N-Elegant-5_ypgwut.jpg"
+            }
+        ],
+        "category": "kids",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            }
+        ],
+        "seller": "Bold-N-Elegent",
+        "stock": 9,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Bold-N-Elegent Kids Wear",
+        "price": "499",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876263/Web.%20Images/Bold-N-Elegant-4_s9410t.jpg"
+            }
+        ],
+        "category": "kids",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            }
+        ],
+        "seller": "Bold-N-Elegent",
+        "stock": 9,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Bold-N-Elegent Kids Wear",
+        "price": "499",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876262/Web.%20Images/Bold-N-Elegant-2_k9fc1c.jpg"
+            }
+        ],
+        "category": "kids",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            }
+        ],
+        "seller": "Bold-N-Elegent",
+        "stock": 9,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Bold-N-Elegent Kids 3-Peice Suit",
+        "price": "499",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876263/Web.%20Images/Bold-N-Elegant-3-Piece-Stripe-Print-Boys-Party-Suit-blue_vpq5q8.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876263/Web.%20Images/Bold-N-Elegant-3-Piece-Stripe-Print-Boys-Party-Suit-grey_me85td.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876263/Web.%20Images/Bold-N-Elegant-3-Piece-Stripe-Print-Boys-Party-Suit-black_yec6fx.jpg"
+            }
+        ],
+        "category": "kids",
+        "size": [
+            {
+                "value": "S"
+            },
+            {
+                "value": "M"
+            },
+            {
+                "value": "L"
+            }
+        ],
+        "seller": "Bold-N-Elegent",
+        "stock": 9,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Boat rockers 550",
+        "price": "2499",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876262/Web.%20Images/Boat-rock-550-red_fx7zpi.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876262/Web.%20Images/Boat-rock-550-black_nl0vmg.jpg"
+            }
+        ],
+        "category": "headphones",
+        "seller": "Boat",
+        "stock": 9,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Boat rockers 450",
+        "price": "1999",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876261/Web.%20Images/Boat-rock-450-black_mgxsdr.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876261/Web.%20Images/Boat-rock-450-skyblue_n5gncn.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876260/Web.%20Images/Boat-rock-450-beige_kwsbnx.jpg"
+            }
+        ],
+        "category": "headphones",
+        "seller": "Boat",
+        "stock": 9,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Boat rockers 450 Marvel Edition",
+        "price": "2499",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876261/Web.%20Images/Boat-rock-450-marvaled-red_tljr8d.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876261/Web.%20Images/Boat-rock-450-marvaled-black_ur64rx.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876261/Web.%20Images/Boat-rock-450-marvaled-blue_mc4cnn.jpg"
+            }
+        ],
+        "category": "headphones",
+        "seller": "Boat",
+        "stock": 9,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Boat Basshead 242",
+        "price": "699",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876260/Web.%20Images/Boat-basshead-242-orange_ehmhvf.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876260/Web.%20Images/Boat-basshead-242-lime_tqjn7r.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876260/Web.%20Images/Boat-basshead-242-red_kifvgn.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876260/Web.%20Images/Boat-basshead-242-gray_qdor1v.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876259/Web.%20Images/Boat-basshead-242-carbonblack_jitddx.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876259/Web.%20Images/Boat-basshead-242-blue_qggwni.jpg"
+            }
+        ],
+        "category": "headphones",
+        "seller": "Boat",
+        "stock": 9,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Boat Basshead 100",
+        "price": "499",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876259/Web.%20Images/Boat-basehead-100-white-p1_hau5vo.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876259/Web.%20Images/Boat-basehead-100-red-p1_xh7pfa.webp"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876258/Web.%20Images/Boat-basehead-100-black-p1_tlhzcr.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876258/Web.%20Images/Boat-basehead-100-orange-p1_r7yu3n.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876258/Web.%20Images/Boat-basehead-100-pink-p1_njwjwb.jpg"
+            }
+        ],
+        "category": "headphones",
+        "seller": "Boat",
+        "stock": 9,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Boat airdopes 191g",
+        "price": "1499",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876258/Web.%20Images/Boat-airdopes-191g-red_gtk3qx.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876258/Web.%20Images/Boat-airdopes-191g-white_y0h3ta.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876257/Web.%20Images/Boat-airdopes-191g-blue_hwoeit.jpg"
+            }
+        ],
+        "category": "headphones",
+        "seller": "Boat",
+        "stock": 9,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Apple Series-5 Smartwatch",
+        "price": "35999",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876259/Web.%20Images/apple-smartwatch-black_b9f067.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876259/Web.%20Images/apple-smartwatch-pink_n2blnf.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876259/Web.%20Images/apple-smartwatch-blue_srvluk.jpg"
+            }
+        ],
+        "category": "smartwatch",
+        "seller": "Apple",
+        "stock": 9,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Apple Series-8 Smartwatch",
+        "price": "55999",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876257/Web.%20Images/apple-s8-creame_op0cac.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876257/Web.%20Images/apple-s8-white_dlivwc.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876257/Web.%20Images/apple-s8-red_fqztqt.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876255/Web.%20Images/apple-s8-black_dx176n.jpg"
+            }
+        ],
+        "category": "smartwatch",
+        "seller": "Apple",
+        "stock": 9,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Boat rockers 710",
+        "price": "2999",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876257/Web.%20Images/boat-710-navy_dl0kzg.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876257/Web.%20Images/boat-710-silver_lzrs1b.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876257/Web.%20Images/boat-710-black_vhwmrt.jpg"
+            }
+        ],
+        "category": "headphones",
+        "seller": "Boat",
+        "stock": 9,
+        "numofreviews": 0,
+        "reviews": []
+    },
+    {
+        "name": "Belcana Handbags",
+        "price": "3599",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin mollis ligula eu congue. Quisque tempus lectus eu purus porta, vitae consequat ligula malesuada. Maecenas eget leo scelerisque, pellentesque purus non, efficitur libero. Duis fermentum in augue id mollis. Curabitur scelerisque elit ac egestas fringilla. Nullam et justo sed purus consequat ornare in id turpis. Nunc sagittis velit id maximus mattis. Vivamus sed augue maximus, convallis purus faucibus, laoreet tortor. In ullamcorper ante nec cursus tincidunt. Aenean euismod urna in augue elementum laoreet. In nec augue in diam tincidunt commodo a ut mauris. In fermentum imperdiet efficitur. Mauris hendrerit nibh molestie iaculis fringilla. Nunc fringilla rutrum lorem, et sodales magna feugiat tincidunt. Mauris quam augue, tincidunt quis nibh in, imperdiet mattis tellus. Etiam efficitur varius urna nec rhoncus.",
+        "ratings": 0,
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876253/Web.%20Images/beclana-handbag-black_uwhvjt.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876253/Web.%20Images/beclana-handbag-pink_x3w1ql.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876252/Web.%20Images/beclana-handbag-beige_k5yqju.jpg"
+            },
+            {
+                "url": "https://res.cloudinary.com/dqxozrie1/image/upload/v1680876252/Web.%20Images/beclana-handbag-blue_rvc4aw.jpg"
+            }
+        ],
+        "category": "handbags",
+        "seller": "Belcana",
+        "stock": 8,
+        "numofreviews": 0,
+        "reviews": []
+    }
+]
