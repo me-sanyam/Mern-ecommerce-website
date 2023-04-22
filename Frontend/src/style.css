@@ -1,0 +1,173 @@
+body {
+    background-color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.AccountWrapper {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.gradient-custom {
+    background: linear-gradient(to right, #ee5a6f, #f29263);
+}
+
+.ProductCard {
+    height: 480px;
+    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.ProductCard:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+/* Navbar Styling */
+
+.navbar {
+    background-color: #fff;
+    color: black;
+    box-shadow: 8px 8px 10px -6px rgba(128, 128, 128, 0.307);
+}
+
+.BrandPin {
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.7rem;
+    font-weight: bolder;
+    color: orangered;
+}
+
+#TogglerButton:focus {
+    box-shadow: none;
+}
+
+#TogglerButton:hover {
+    background-color: none;
+}
+
+.CustomInput:focus {
+    box-shadow: none;
+    border: 1px solid #e0e0e0;
+}
+
+.navbar-input:focus {
+    box-shadow: none;
+    border: 2px solid orangered;
+}
+
+.CustomBtn {
+    background-color: transparent;
+    color: black;
+    font-weight: bold;
+    text-align: left;
+    border-radius: 0%;
+    border-bottom: 3px solid orangered;
+}
+
+.CustomBtn:focus {
+    box-shadow: none;
+}
+
+/* Home Styling */
+
+.MainBanner {
+    height: 638px;
+    background: url('https://res.cloudinary.com/dqxozrie1/image/upload/v1677747426/Web.%20Images/front-view-young-female-black-dress-with-chain-belt-holding-shopping-packages-drinking-coffee-beige_tioge9.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.MainBannerContent {
+    font-size: 2rem;
+}
+
+.SecondaryBanner {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 3;
+}
+
+.SecondaryBanner:nth-child(1) {
+    background: url('https://res.cloudinary.com/dqxozrie1/image/upload/v1677752241/Web.%20Images/category-2.jpg_vvykcn.webp');
+}
+
+.SecondaryBanner:nth-child(2) {
+    background: url('https://res.cloudinary.com/dqxozrie1/image/upload/v1677752241/Web.%20Images/category-3.jpg_kduxyj.webp');
+}
+
+.SecondaryBanner:nth-child(3) {
+    background: url('https://res.cloudinary.com/dqxozrie1/image/upload/v1677752241/Web.%20Images/category-4.jpg_gzf53s.webp');
+}
+
+.SecondaryBanner:nth-child(4) {
+    background: url('https://res.cloudinary.com/dqxozrie1/image/upload/v1677752242/Web.%20Images/category-5.jpg_wm4yn0.webp');
+}
+
+.Music_Wrapper>img {
+    width: 40rem;
+    height: auto;
+}
+
+.HomeProductList>li {
+    cursor: pointer;
+    font-size: small;
+}
+
+.FirstImage {
+    height: 70vh;
+    background: url('https://res.cloudinary.com/dqxozrie1/image/upload/v1675758377/Web.%20Images/iPhone-14-Transparent_pfeeoa.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+/* Product Details */
+
+#MainImage {
+    width: 20rem;
+    height: auto;
+}
+
+#SideImages {
+    width: 5rem;
+    height: auto;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 1024px) {
+
+    .Music_Wrapper>img {
+        width: 30rem;
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #EmptyCartImage {
+        width: 25rem;
+    }
+
+    .Music_Wrapper>img {
+        width: 25rem;
+        height: auto;
+    }
+
+    .FirstImage {
+        height: 45vh;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    #EmptyCartImage {
+        width: 18rem;
+    }
+
+    .Music_Wrapper>img {
+        width: 18rem;
+        height: auto;
+    }
+}
