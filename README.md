@@ -1,4 +1,4 @@
-# Multi-Vendor-MERN-ecommerce-app
+# Mern-ecommerce-website
 Multi-Vendor ecommerce web application in React and Node
 
 
